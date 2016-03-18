@@ -3,7 +3,7 @@ ToggleImageButton
 
 A library which extends ToggleButton to allow for a button that toggles between two images.
 
-![ToggleImageButton](https://raw.githubusercontent.com/csdodd/ToggleImageButton/master/demo.gif)
+<img src="https://raw.githubusercontent.com/csdodd/ToggleImageButton/master/demo.gif" width="350">
 
 Gradle
 ------
