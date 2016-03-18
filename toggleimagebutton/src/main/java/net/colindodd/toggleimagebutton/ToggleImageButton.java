@@ -41,6 +41,11 @@ public class ToggleImageButton extends ToggleButton {
     private void removeText() {
         this.setTextOn("");
         this.setTextOff("");
+
+
+        // Hack to force text removal
+        super.setChecked(!this.isChecked());
+        super.setChecked(!this.isChecked());
     }
 
     private void obtainStyledAttributes(final Context context, final AttributeSet attrs) {
