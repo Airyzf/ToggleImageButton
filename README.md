@@ -1,5 +1,7 @@
 ToggleImageButton
 ===============
+[![Android
+Arsenal](https://img.shields.io/badge/Android%20Arsenal-ToggleImageButton-green.svg?style=true)](https://android-arsenal.com/details/1/3297)
 
 A library which extends ToggleButton to allow for a button that toggles between two images.
 
