@@ -9,7 +9,7 @@ A library which extends ToggleButton to allow for a button that toggles between 
 
 Gradle
 ------
-```
+```groovy
 dependencies {
     compile 'net.colindodd:toggleimagebutton:1.1'
 }
