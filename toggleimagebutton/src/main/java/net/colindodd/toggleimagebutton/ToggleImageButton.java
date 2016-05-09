@@ -43,7 +43,7 @@ public class ToggleImageButton extends ToggleButton {
         this.setTextOff("");
 
 
-        // Hack to force text removal
+        // Workaround to force text removal
         super.setChecked(!this.isChecked());
         super.setChecked(!this.isChecked());
     }
