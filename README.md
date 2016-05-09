@@ -11,7 +11,7 @@ Gradle
 ------
 ```groovy
 dependencies {
-    compile 'net.colindodd:toggleimagebutton:1.1'
+    compile 'net.colindodd:toggleimagebutton:1.2'
 }
 ```
 
