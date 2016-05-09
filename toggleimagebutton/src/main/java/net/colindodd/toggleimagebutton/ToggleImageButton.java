@@ -76,4 +76,14 @@ public class ToggleImageButton extends ToggleButton {
 
         syncDrawableState();
     }
+
+    public void setDrawableOn(final Drawable drawableOn) {
+        this.drawableOn = drawableOn;
+        syncDrawableState();
+    }
+
+    public void setDrawableOff(final Drawable drawableOff) {
+        this.drawableOff = drawableOff;
+        syncDrawableState();
+    }
 }
